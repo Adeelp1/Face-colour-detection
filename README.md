@@ -1,1 +1,1 @@
-# Face-colour-detection
+# Face & colour detection
